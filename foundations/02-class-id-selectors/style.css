@@ -1,0 +1,19 @@
+p {
+    background-color: pink;
+    font-family: 'Verdana', 'Dejavu Sans', sans-serif;
+}
+
+.bigger {
+    font-size: 36px;
+}
+
+#firstdiv {
+    color: blue;
+    font-size: 36px;
+}
+
+#seconddiv {
+    font-size: 24px;
+    font-weight: bold;
+    background-color: rgb(78, 158, 78);
+}
