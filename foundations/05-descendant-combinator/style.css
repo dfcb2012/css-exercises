@@ -1,0 +1,14 @@
+.container p {
+    background-color: yellow;
+    color: red;
+    font-size: 20px;
+    text-align: center;
+}
+
+/* Another way */
+/* div > p {
+    background-color: blue;
+    font-weight: bold;
+    font-size: 20px;
+    text-align: center;
+} */
